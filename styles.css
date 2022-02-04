@@ -1,0 +1,36 @@
+
+header {
+    background-color: pink;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+article {
+    background-color: lightblue;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px; }
+nav {
+    background-color: pink;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;  
+}
+section {
+    background-color: pink;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+aside{
+    background-color: pink;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+footer {
+    background-color: pink;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px; 
+}
